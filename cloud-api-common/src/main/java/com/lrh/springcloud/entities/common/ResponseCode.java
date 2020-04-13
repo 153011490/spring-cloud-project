@@ -1,4 +1,4 @@
-package com.lrh.springcloud.common;
+package com.lrh.springcloud.entities.common;
 
 public class ResponseCode {
     public static final Integer OK = 200; //现有资源已被更改
